@@ -1,0 +1,19 @@
+{
+  "_id": "",
+  "gembaWalkName": "",
+  "gembaWalkDescription": "",
+  "user": "",
+  "language": "",
+  "date": 1,
+  "score": 1,
+  "iso": null,
+  "company": {
+    "name": " ",
+    "address": "",
+    "phone": "",
+    "timeZone": "",
+    "bucket": "",
+    "image": ""
+  },
+  "subReports": []
+}
